@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="sftpServerMock:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/sftpServerMock_jar</output-path>
+    <root id="archive" name="sftpServerMock_jar.jar">
+      <element id="module-output" name="sftpServerMock" />
+      <element id="library" level="project" name="lib" />
+    </root>
+  </artifact>
+</component>
